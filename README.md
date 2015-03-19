@@ -1,4 +1,4 @@
-# node-gps
+# [node-gps](http://libraries.io/npm/gps)
 
 Read GPS data from GPS serial devices
 
